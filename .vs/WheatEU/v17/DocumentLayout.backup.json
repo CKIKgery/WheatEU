@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ikt12\\Gabona\\ez\\WheatEU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|h:\\ikt12\\gabona\\ez\\wheateu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|H:\\ikt12\\Gabona\\ez\\WheatEU\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|H:\\ikt12\\Gabona\\ez\\WheatEU\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|solutionrelative:country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|H:\\ikt12\\Gabona\\ez\\WheatEU\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FDC776-3A5F-4136-9208-7EE21880F006}|WheatEU.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:00:55.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Country.cs",
+              "RelativeDocumentMoniker": "Country.cs",
+              "ToolTip": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Country.cs",
+              "RelativeToolTip": "Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:19:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:05:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\ikt12\\Gabona\\ez\\WheatEU\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "H:\\ikt12\\Gabona\\WheatEU\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\WheatEU\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:04:05.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
